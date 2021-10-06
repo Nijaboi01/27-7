@@ -1,0 +1,9 @@
+{
+	"ip":"QuaredSmp2.aternos.me",
+	"port": "25565",
+	"name": "Bombi",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register vrishab12",
+	"login-cmd":"/login vrishab12"
+}
